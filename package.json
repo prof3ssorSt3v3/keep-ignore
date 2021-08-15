@@ -1,0 +1,23 @@
+{
+  "name": "keep-ignore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "cowsay": "^1.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prof3ssorSt3v3/keep-ignore.git"
+  },
+  "keywords": [],
+  "author": "Steve <steve@home.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prof3ssorSt3v3/keep-ignore/issues"
+  },
+  "homepage": "https://github.com/prof3ssorSt3v3/keep-ignore#readme"
+}
